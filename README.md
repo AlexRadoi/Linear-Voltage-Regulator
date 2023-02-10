@@ -1,6 +1,7 @@
 # Linear-Voltage-Regulator
 
-This is my third year project 
+This is my third year project  at UPB ETTI.
+
 The specs for the regulator are :
 - Supply voltage between: 30-33 V
 - Programmable output voltage: 23-25V
