@@ -10,6 +10,6 @@ The specs for the regulator are :
 - PCB dimensions 40x40 mm
 
 The regulator also has OverVoltage protection and short circuit protection at the output.
+ 
+ In the files attached to this repository there is a PDF file "P1_Calculus", containing all the calculus for the values of the components so you can costumize this regulator to fit your needs.
 ![image](https://user-images.githubusercontent.com/77704116/218074129-ca3ed678-b8e2-4e46-a9be-0e5e94dbd7e9.png)
-In the files attached to this repository there is a PDF file "P1_Calculus", containing all the calculus for the values of the components so you can costumize this regulator 
-to fit your needs
